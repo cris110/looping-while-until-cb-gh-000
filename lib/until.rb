@@ -6,4 +6,3 @@ def using_until
     levetation_force += 1
   end
 end
-
